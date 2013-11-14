@@ -177,8 +177,6 @@ You can also use HTML tags.
 
 Yes, Table with HTML tags.
 
-> Remember it's **Github Flavoured Markdown**.
-
 <hr />
 
 More code highlighting...
@@ -194,206 +192,7 @@ More code highlighting...
 
 <hr />
 
-**SASS**
-
-```sass
-@import url(http://fonts.googleapis.com/css?family=Karla)
-@import url(http://weloveiconfonts.com/api/?family=fontawesome)
-@import url(http://weloveiconfonts.com/api/?family=entypo)
-
- 
-$color-1: #f9f8f8
-$color-2: #ba8978
-$color-3: #fb6567
-$color-4: #eab8b4
-$color-5: #74c4b1
-$color-6: #a3645b
-$color-7: #cb877a
-$color-8: #aba786
-$color-9: white
-
-
-[class*="fontawesome-"]:before
-  font-family: 'FontAwesome', sans-serif
-  color: darken($color-7, 30%)
-  font-size: 1.5em
-  position: absolute
-  right: 0.4em
-  top: 1.70em
-
-[class*="entypo-"]:before 
-  font-family: 'entypo', sans-serif
-  color: darken($color-9, 30%)
-  font-size: 1.5em
-  margin: -1.8em 14.5em
-  position: absolute
-  
-[class*="entypo-"]:after
-  font-family: 'entypo', sans-serif
-  color: darken($color-9, 30%)
-  content: '|'
-  font-size: 1.8em
-  margin: -1.7em 11.7em
-  position: absolute
-
-*
-  margin: 0
-  padding: 0
-  @include transition(0.3s all ease-in-out)
-
-body
-  background: $color-2
-  font-family: 'Karla', sans-serif
-  
-form 
-  width: 24em
-  position: absolute
-  top: 50%
-  left: 50%
-  border: 0.2em solid $color-6
-  @include border-radius(0.7em)
-  margin: -7em 0 0 -10em
-  background: $color-1
-  overflow: hidden
-  @include box-shadow (inset 0 -0.2em 0.2em 0 darken(pink,3%))
-  
-  &:hover
-    @include box-shadow(inset 0 -0.2em 0.1em 0 pink)
-  .header
-    margin: 1em 0
-    padding: 1em
-    text-transform: uppercase
-    background: $color-3
-    color: $color-9
-    font-weight: bold  
-    text-shadow:  0 0.1em 0.2em #999
-    font-size: 1.1em
-    border-left: 0.15em solid $color-6
-    border-right: 0.15em solid $color-6
-    
-    a
-      float: right  
-      color: inherit
-      font-size: 0.8em   
-      padding: 0.2em 0.4em   
-      text-shadow: none not-!important
- 
-input[type="text"], input[type="password"]
-  background: darken($color-9,5%)
-  border: 0.1em solid darken($color-9,12%)
-  outline: none
-  @include border-radius(0.7em)
-  font-size: 1.1em 
-  width: 17.9em
-  margin: 0.3em
-  padding: 0.5em 1em
-  padding-right: 2.3em
-  border-bottom: 0.30em inset darken($color-9,10%)
-  color: $color-5
-  display: block
-  cursor: pointer
-
-::-webkit-input-placeholder
-  font-style: italic
-  color: darken($color-9,22%)
-  font-family: 'Karla', sans-serif
-
-\:-moz-placeholder 
-  font-style: italic
-  color: darken($color-9,22%)
-  font-family: 'Karla', sans-serif
-
-::-moz-placeholder
-  font-style: italic
-  color: darken($color-9,22%) 
-  font-family: 'Karla', sans-serif
-
-\:-ms-input-placeholder 
-  font-style: italic
-  color: darken($color-9,22%)
-  font-family: 'Karla', sans-serif
-  
-.rem-me
-  margin: 1em
-  color: darken($color-9,32%) 
-  display: inline-block 
-  width: 10em
-
-.submit-button
-  display: inline-block
-
-input[type="submit"]
-  background: linear-gradient(darken($color-9,7%), darken($color-9,14%))
-  border: 0.1em solid $color-3
-  outline: none
-  font-size: 1.2em
-  font-weight: bold
-  padding: 0.3em 1em
-  margin: 0.2em 0 0 2.7em
-  text-transform: uppercase
-  color: $color-3
-  @include border-radius(0.3em)
-  cursor: pointer
-
-input[type="submit"]:hover, input[type="submit"]:active
-  border-color: $color-5
-  
-input[type="text"]:hover, input[type="password"]:hover, input[type="text"]:focus, input[type="password"]:focus
-  border-color: $color-5
-
-input[type="text"]:focus ~ .entypo-user, input[type="password"]:focus ~ .entypo-key
-  opacity: 0
-
-.attribution
-  position: absolute
-  bottom: 0
-  left: 0
-
-  a
-    color: $color-9
-    text-decoration: none  
-
-.credit
-  position: absolute
-  right: 0
-  top: 0
-  
-  a
-    color: $color-9
-    text-decoration: none  
-
-input[type="checkbox"]
-  appearance: none
-  height: 1.35em
-  width: 2.2em
-  outline: none
-  cursor: pointer
-  background: darken($color-9,7%)
-  border: 0.1em solid darken($color-9,15%)
-  @include border-radius(0.5em)
-  overflow: hidden
-  position: relative
-  
-  &:before
-    height: 1.3em
-    width: 1.1em
-    background: $color-3
-    position: absolute
-    content: ''
-    @include transition (all .3s ease-in-out)
-    
-  &:checked
-  
-    &:before
-      margin: 0 1em
-      background: $color-5
-      
-label[for="remember"]
-  margin: 0 0.4em
-  margin-top: -0.1em
-  position: absolute
-  cursor: pointer
-```
+**SCSS**
 
 ```scss
 
@@ -488,23 +287,42 @@ body {
 
 ```
 
+---
+
+**How Do this?**
+
+- Remember in GFM(Github Flavoured Markdown) you can highlighte code with 4 space or with.
+
+**Without Language**
+
+```
+" ```
+  <-- code here -->
+  ``` "
+```
+
+- This will just wrap `code` in `pre` tag.
+
+**With Language(html)**
+
+```html
+" ```html
+  <-- code here -->
+  ``` "
+```
+
+- Ignore `"` because It's not showing alone, So I've to use bracket.
+
+- `html` written so it'll highlighte as html syntax. You can use other languages like `scss`, `sass`, `css`, `ruby` etc.
+
+---
+
+#### Resources \- [Github Help on GFM] (https://help.github.com/articles/github-flavored-markdown "Help From Github on GFM"), [CssDeck Docs] (http://cssdeck.com/labs/learning-the-markdown-syntax "Markdown Help")
 
 
+**Thanks,**  
+**\-By [Kaushalya Mandaliya][link_to_krman]**
 
+[link_to_krman]: http://seebeetee.com "Creative Blogging Tips"
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+> Remember it's **Github Flavoured Markdown**.
