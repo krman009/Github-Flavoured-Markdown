@@ -125,7 +125,7 @@ If you want to produce __\*__ and **\_** then add `\` before `_` and `*`. So `\*
 How?
 
 ```
-![alt text](http://lorempixel.com/output/nature-q-c-100-100-8.jpg "title here")
+![alt text](http://lorempixel.com/100/100/ "title here")
 ```
 
 Also works
