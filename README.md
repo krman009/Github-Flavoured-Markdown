@@ -1,4 +1,4 @@
-> Demo-repo || Demo of how markdown works in github. (I think !!! :p)
+> Github Flavoured Markdown Cheat Sheet.
 
 Writing without code will be wrapped in `<p>` tag.
 
