@@ -378,10 +378,7 @@ This,
 --- 
 or this,
 <hr />
-
 ```
-
----
 
 Break Line? `<br />`
 
@@ -389,6 +386,7 @@ How?
 
 - Either write two spaces after a sentence or Write next line after hitting `Enter` (Hit `Enter` one time if you're in the next line of the previous line or Hit two times `Enter`.. If you are on the line in which after you want line break.)
 
+---
 
 #### Resources \- [Github Help on GFM] (https://help.github.com/articles/github-flavored-markdown "Help From Github on GFM"), [CSSDeck Docs] (http://cssdeck.com/labs/learning-the-markdown-syntax "Markdown Help")
 
