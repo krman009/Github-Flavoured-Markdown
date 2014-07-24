@@ -340,7 +340,7 @@ body {
 
 **How Do this?**
 
-- Remember in GFM(Github Flavoured Markdown) you can highlighte code with 4 space or with.
+- Remember in GFM(Github Flavoured Markdown) you can highlighte code with 4 space or with **```**.
 
 **Without Language**
 
@@ -360,18 +360,22 @@ body {
   ``` "
 ```
 
-- Ignore `"` because It's not showing alone, So I've to use bracket.
+- Ignore `"` because It's not showing alone, So I've to use it.
 
-- `html` written so it'll highlighte as html syntax. You can use other languages like `scss`, `sass`, `css`, `ruby` etc.
+- I've written `html` because I want to highlight `html code`. 
+- 
+- You can use other languages, For example: `scss`, `sass`, `css`, `ruby`, `javascript`, `jade`, `less` etc.
 
 ---
 
-#### Resources \- [Github Help on GFM] (https://help.github.com/articles/github-flavored-markdown "Help From Github on GFM"), [CssDeck Docs] (http://cssdeck.com/labs/learning-the-markdown-syntax "Markdown Help")
+#### Resources \- [Github Help on GFM] (https://help.github.com/articles/github-flavored-markdown "Help From Github on GFM"), [CSSDeck Docs] (http://cssdeck.com/labs/learning-the-markdown-syntax "Markdown Help")
 
 
 **Thanks,**  
-**\-By [Kaushalya Mandaliya][link_to_krman]**
+**\- By [Kaushalya Mandaliya][link_to_krman] | [@kmandalwala][link_to_twitter]**
 
 [link_to_krman]: http://seebeetee.com "Creative Blogging Tips"
+[link_to_twitter]: https://twitter.com/kmandalwala "Kaushalya on Twitter"
+[official_md_docs]: http://daringfireball.net/projects/markdown/ "Markdown Docs"
 
-> Remember it's **Github Flavoured Markdown**.
+> Remember this is **Github Flavoured Markdown**. [Official Markdown Docs][official_md_docs].
