@@ -92,6 +92,55 @@ How?
 4. Four (You)
 ```
 
+**Sub lists**
+
+1. Getting started
+  + Download
+  + Install
+2. Make a dummy file
+
+How?
+
+```
+1. Getting started
+  + Download
+  + Install
+2. Make a dummy file
+```
+
+or
+
+1. Getting started
+  1. Download
+  2. Install
+2. Make a dummy file
+
+```
+1. Getting started
+  1. Download
+  2. Install
+2. Make a dummy file
+```
+
+
+**Complex**
+
+1. Level 1
+  1. Level 2
+    + Level 3
+      - Level 4
+        * Level 5
+
+How ?
+
+```
+1. Level 1
+  1. Level 2
+    + Level 3
+      - Level 4
+        * Level 5
+```
+
 <hr />
 
 *`em` tag*
