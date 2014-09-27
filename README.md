@@ -1,11 +1,11 @@
-> Github Flavoured Markdown Cheat Sheet.
+## Github Flavoured Markdown Cheat Sheet.
 
-Writing without code will be wrapped in `<p>` tag.
+Writing content without anything will be wrapped into `<p>`.
 
-How I've done that Block-code(Inline code)?
+How I've done that `inline code`?
 
 ```
-`<p></p>`
+`<p>`
 ```
 
 # Heading 1
