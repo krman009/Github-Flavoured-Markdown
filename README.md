@@ -9,6 +9,7 @@ Writing content without anything will be wrapped into `<p>`.
 
 How I've done that `inline code`?
 ```
+---
 
 # Heading 1
 ## Heading 2
