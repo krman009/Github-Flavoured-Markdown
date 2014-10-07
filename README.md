@@ -341,7 +341,7 @@ body {
 
 **How to highlight code?**
 
-- You can highlight code with **4 spaces** or with **```**.
+- You can highlight code with **4 spaces** or with **```(language-name(optional))**.
 
 **Highlight without any language syntax**
 
