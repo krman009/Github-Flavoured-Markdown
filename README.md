@@ -345,22 +345,22 @@ body {
 
 **Without Language**
 
-  ```
-  " ```
-    <-- code here -->
-    ``` "
-  ```
+```
+" ```
+  <-- code here -->
+  ``` "
+```
   
-  -This will just wrap `code` in `pre` tag.
+  - This will just wrap `code` in `pre` tag.
   - Ignore `"` because It's not showing alone, So I've to use it.
 
 **With Language(html)**
   
-  ```html
-  " ```html
-    <-- code here -->
-    ``` "
-  ```
+```html
+" ```html
+  <-- code here -->
+  ``` "
+```
   
   - Ignore `"` because It's not showing alone, So I've to use it.
   - I've written `html` because I want to highlight `html code`. 
