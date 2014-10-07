@@ -341,7 +341,7 @@ body {
 
 **How to highlight code?**
 
-- Remember in GFM(Github Flavoured Markdown) you can highlight code with 4 spaces or with **```**.
+- You can highlight code with **4 spaces** or with **```**.
 
 **Highlight without any language syntax**
 
