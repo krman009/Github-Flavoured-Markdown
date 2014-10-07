@@ -231,7 +231,7 @@ Yes, Table with HTML tags.
 
 <hr />
 
-More code highlighting...
+**Code Highlighting**
 
 **HTML**
 
@@ -339,33 +339,31 @@ body {
 
 ```
 
----
+**How to highlight code?**
 
-**How Do this?**
+- Remember in GFM(Github Flavoured Markdown) you can highlight code with 4 spaces or with **```**.
 
-- Remember in GFM(Github Flavoured Markdown) you can highlighte code with 4 space or with **```**.
++ **Without Language**
 
-**Without Language**
+  ```
+  " ```
+    <-- code here -->
+    ``` "
+  ```
+  
+  - This will just wrap `code` in `pre` tag.
 
-```
-" ```
-  <-- code here -->
-  ``` "
-```
-
-- This will just wrap `code` in `pre` tag.
-
-**With Language(html)**
-
-```html
-" ```html
-  <-- code here -->
-  ``` "
-```
-
-- Ignore `"` because It's not showing alone, So I've to use it.
-- I've written `html` because I want to highlight `html code`. 
-- You can use other languages, For example: `scss`, `sass`, `css`, `ruby`, `javascript`, `jade`, `less` etc.
++ **With Language(html)**
+  
+  ```html
+  " ```html
+    <-- code here -->
+    ``` "
+  ```
+  
+  - Ignore `"` because It's not showing alone, So I've to use it.
+  - I've written `html` because I want to highlight `html code`. 
+  - You can use other languages, For example: `scss`, `sass`, `css`, `ruby`, `javascript`, `jade`, `less` etc.
 
 ---
 
@@ -387,11 +385,11 @@ Break Line? `<br />`
 
 How?
 
-- Either write two spaces after a sentence or Write next line after hitting `Enter` (Hit `Enter` one time if you're in the next line of the previous line or Hit two times `Enter`.. If you are on the line in which after you want line break.)
+- Either write two space after a sentence or Write next line after hitting `Enter` (Hit `Enter` one time if you're in the next line of the previous line or Hit two times `Enter` if you are on the line in which after you want line break.)
 
 ---
 
-#### Resources \- [Github Help on GFM] (https://help.github.com/articles/github-flavored-markdown "Help From Github on GFM"), [CSSDeck Docs] (http://cssdeck.com/labs/learning-the-markdown-syntax "Markdown Help")
+** Resources \- [Github Help on GFM] (https://help.github.com/articles/github-flavored-markdown "Help From Github on GFM"), [CSSDeck Docs] (http://cssdeck.com/labs/learning-the-markdown-syntax "Markdown Help") **
 
 
 **Thanks,**  
