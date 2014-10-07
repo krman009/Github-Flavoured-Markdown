@@ -343,7 +343,7 @@ body {
 
 - Remember in GFM(Github Flavoured Markdown) you can highlight code with 4 spaces or with **```**.
 
-**Without Language**
+**Highlight without any language syntax**
 
 ```
 " ```
@@ -354,7 +354,7 @@ body {
   - This will just wrap `code` in `pre` tag.
   - Ignore `"` because It's not showing alone, So I've to use it.
 
-**With Language(html)**
+**Highlight with any language syntax**
   
 ```html
 " ```html
@@ -362,9 +362,9 @@ body {
   ``` "
 ```
   
-  - Ignore `"` because It's not showing alone, So I've to use it.
   - I've written `html` because I want to highlight `html code`. 
-  - You can use other languages, For example: `scss`, `sass`, `css`, `ruby`, `javascript`, `jade`, `less` etc.
+  - You can use other languages, For example: `scss`, `sass`, `python`, `ruby`, `javascript`, `jade`, `less`, `php` etc.
+  - Ignore `"` because It's not showing alone, So I've to use it.
 
 ---
 
