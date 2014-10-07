@@ -343,7 +343,7 @@ body {
 
 - Remember in GFM(Github Flavoured Markdown) you can highlight code with 4 spaces or with **```**.
 
-+ **Without Language**
+**Without Language**
 
   ```
   " ```
@@ -351,9 +351,10 @@ body {
     ``` "
   ```
   
-  - This will just wrap `code` in `pre` tag.
+  -This will just wrap `code` in `pre` tag.
+  - Ignore `"` because It's not showing alone, So I've to use it.
 
-+ **With Language(html)**
+**With Language(html)**
   
   ```html
   " ```html
@@ -389,7 +390,7 @@ How?
 
 ---
 
-** Resources \- [Github Help on GFM] (https://help.github.com/articles/github-flavored-markdown "Help From Github on GFM"), [CSSDeck Docs] (http://cssdeck.com/labs/learning-the-markdown-syntax "Markdown Help") **
+**Resources \- [Github Help on GFM] (https://help.github.com/articles/github-flavored-markdown "Help From Github on GFM"), [CSSDeck Docs] (http://cssdeck.com/labs/learning-the-markdown-syntax "Markdown Help")**
 
 
 **Thanks,**  
