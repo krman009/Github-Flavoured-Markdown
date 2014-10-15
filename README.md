@@ -394,7 +394,7 @@ How?
 
 
 **Thanks,**  
-** \- By [Kaushalya Mandaliya][link_to_twitter] | http://seebeetee.com **
+<strong> \- By [Kaushalya Mandaliya][link_to_twitter] | http://seebeetee.com </strong>
 
 [link_to_twitter]: https://twitter.com/kmandalwala "Kaushalya on Twitter"
 [official_md_docs]: http://daringfireball.net/projects/markdown/ "Markdown Docs"
