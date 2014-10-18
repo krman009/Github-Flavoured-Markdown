@@ -30,9 +30,9 @@ How?
 ```
 Remember `<h1>` and `<h2>` gets `border-bottom` automatically.
 
-And all Heading assigned with the `unique-id`.
+And all Heading assigned with `unique-id`.
 
-also works
+This also works for Heading 1 and Heading 2..
 
 ```
 Heading 1
