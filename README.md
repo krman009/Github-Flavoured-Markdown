@@ -2,12 +2,12 @@
 
 Writing content without anything will be wrapped into `<p>`.
 
-How I've done that `inline code`?
+How have I done that `inline code`?
 
 ```
 Writing content without anything will be wrapped into `<p>`.
 
-How I've done that `inline code`?
+How have I done that `inline code`?
 ```
 ---
 
