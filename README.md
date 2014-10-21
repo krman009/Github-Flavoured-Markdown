@@ -180,7 +180,7 @@ How?
 ![alt text](http://lorempixel.com/100/100/ "title here")
 ```
 
-Also works
+This also works:
 
 
 `![alt text][id]`  
@@ -198,7 +198,7 @@ How?
 [Github](http://github.com "title here")
 ```
 
-Also works
+This also works:
 
 
 `[github][id2]`  
