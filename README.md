@@ -2,12 +2,12 @@
 
 Writing text without any specific symbols and syntaxes will be wrapped into `<p>`.
 
-How have I done that `inline code`?
+How have I done that `inline code highlighting`?
 
 ```
 Writing text without any specific symbols and syntaxes will be wrapped into `<p>`.
 
-How have I done that `inline code`?
+How have I done that `inline code highlighting`?
 ```
 ---
 
@@ -30,7 +30,7 @@ How?
 ```
 Remember `<h1>` and `<h2>` gets `border-bottom` automatically.
 
-And all Heading assigned with `unique-id`.
+And all the headings are assigned with `unique-id`.
 
 This also works for Heading 1 and Heading 2..
 
@@ -399,4 +399,4 @@ How?
 [link_to_twitter]: https://twitter.com/kmandalwala "Kaushalya on Twitter"
 [official_md_docs]: http://daringfireball.net/projects/markdown/ "Markdown Docs"
 
-> Remember this is **Github Flavoured Markdown**. [Official Markdown Docs][official_md_docs].
+> Remember this is **Github Flavoured Markdown**. [Official Markdown Docs][official_md_docs]
