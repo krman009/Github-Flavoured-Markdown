@@ -198,7 +198,7 @@ How?
 [Github](http://github.com "title here")
 ```
 
-This also works:
+Another way:
 
 
 `[github][id2]`  
