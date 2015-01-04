@@ -180,7 +180,7 @@ How?
 ![alt text](http://lorempixel.com/100/100/ "title here")
 ```
 
-This also works:
+Another way:
 
 
 `![alt text][id]`  
