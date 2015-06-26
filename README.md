@@ -399,4 +399,4 @@ How?
 [link_to_twitter]: https://twitter.com/kmandalwala "Kaushalya on Twitter"
 [official_md_docs]: http://daringfireball.net/projects/markdown/ "Markdown Docs"
 
-> Remember this is **Github Flavoured Markdown**. [Official Markdown Docs][official_md_docs]
+*Remember: This is <strong>Github Flavoured Markdown,</strong> [Official Markdown Docs][official_md_docs].*
