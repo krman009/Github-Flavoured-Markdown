@@ -32,7 +32,7 @@ Remember `<h1>` and `<h2>` gets `border-bottom` automatically.
 
 And all the headings are assigned with `unique-id`.
 
-This also works for Heading 1 and Heading 2..
+Alternate syntax for `<h1>` and `<h2>`.
 
 ```
 Heading 1
