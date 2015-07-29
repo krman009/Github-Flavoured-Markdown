@@ -1,11 +1,11 @@
-## Github Flavoured Markdown Cheat Sheet.
+## Github Flavoured Markdown Cheat Sheet
 
-Writing text without any specific symbols and syntaxes will be wrapped into `<p>`.
+Writing text without any specific symbol(s) and/or syntax(es) will be wrapped into `<p>`.
 
 How have I done that `inline code highlighting`?
 
 ```
-Writing text without any specific symbols and syntaxes will be wrapped into `<p>`.
+Writing text without any specific symbol(s) and/or syntax(es) will be wrapped into `<p>`.
 
 How have I done that `inline code highlighting`?
 ```
